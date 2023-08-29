@@ -2,6 +2,23 @@
 
 Here is the instruction
 
+<h2><ul><li>Open the website</li></ul></h2>
+
+The Github website: www.github.com<br>
+
+<ul><li>click the log in button, which is in the right top corner</li></ul>
+<ul><li>Enter the email address and password, click log in button</li></ul>
+<ul><li>on the dashborad page, click the chu-zhang/chu-zhang.github.io, which is in the left hand side</li></ul>
+<ul><li>click index.html, where we organize the content of the website</li></ul>
+<ul><li>click the pencil button( which in the right hand side of the page) to edit the code</li></ul>
+<img width="204" alt="image" src="https://github.com/chu-zhang/chu-zhang.github.io/assets/82868869/d28ff8a6-f7ce-4f15-afe7-f362130d4316">
+<ul><li>Here we have two button, edit and preview, edit is for changing the code, and preview is for view the website</li></ul>
+<ul><li>After changing the code, click the commit changes button to save your code, and the website will update automatically in few mins</li></ul>
+<img width="1440" alt="image" src="https://github.com/chu-zhang/chu-zhang.github.io/assets/82868869/abebb269-9c86-427b-b2be-4e0be50c2f90">
+
+
+
+
 <h2><ul><li>The function we will use</li></ul></h2>
 
 ```
@@ -100,9 +117,9 @@ And the thing we need to focus is:
 ```
 
 We only need to change 3 items<br>
-first is the href, we need to replace it into the new doi website that could view the papers.<br>
-Second, is the title in "a" function, inside the a function, we have the title :The macroeconomic announcement premium and information environment (with Shen Zhao), which is the name of the paper, we could display the name of papers by changing the title.<br>
-Third is the number inside the span function.
+<li>first is the href, we need to replace it into the new doi website that could view the papers.</li><br>
+<li>Second, is the title in "a" function, inside the a function, we have the title :The macroeconomic announcement premium and information environment (with Shen Zhao), which is the name of the paper, we could display the name of papers by changing the title.</li><br>
+<li>Third is the number inside the span function.</li>
 
 
 
