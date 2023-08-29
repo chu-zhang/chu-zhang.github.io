@@ -2,6 +2,9 @@
 
 Here is the instruction
 
+<h2><ul><li>The function we will use</li></ul></h2>
+<li><a href>name</a>*/</li>
+
 <h2><ul><li>For editing the directory page</li></ul></h2>
 
 In the left hand side of the personal website, we have the button: Contact, education,work experience, publication and working papers.
