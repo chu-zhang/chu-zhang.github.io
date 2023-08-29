@@ -3,8 +3,16 @@
 Here is the instruction
 
 <h2><ul><li>The function we will use</li></ul></h2>
-<li><a href>name</a>*/</li>
 
+```
+<a href>name</a>
+```
+<li> This function is to link the button (which is the name) with the pdf/website/the section of the website,</li><br>
+
+```
+<section id=""></secttion>
+```
+The section function is to seperate the content of the website into parts, and we name each by by changing the id names. We could use the a href function to link the section by have the same name for id and href address, and the href="#name", # is essential when we want to link the section
 <h2><ul><li>For editing the directory page</li></ul></h2>
 
 In the left hand side of the personal website, we have the button: Contact, education,work experience, publication and working papers.
