@@ -12,7 +12,24 @@ Here is the instruction
 ```
 <section id=""></secttion>
 ```
-The section function is to seperate the content of the website into parts, and we name each by by changing the id names. We could use the a href function to link the section by have the same name for id and href address, and the href="#name", # is essential when we want to link the section
+The section function is to seperate the content of the website into parts, and we name each by by changing the id names. We could use the a href function to link the section by have the same name for id and href address, and the href="#name", # is essential when we want to link the section<br>
+
+```
+.functionname{}
+class="functionname"
+```
+The first row is based on css ( where we could change the type of the words), it will create a new function names functionames.<br>
+After create it on css, then we could use it by adding class="functionname", for example:
+
+```
+<p class="functionname">content</p>
+```
+The p tag is an HTML element that represents a paragraph,by adding the class="functionname", we could change the type of words which is list in the special p function
+
+```
+<div></div>
+```
+div doesn't represent anything, it just help us to group the content, and we could use the class function and id more convenient.
 <h2><ul><li>For editing the directory page</li></ul></h2>
 
 In the left hand side of the personal website, we have the button: Contact, education,work experience, publication and working papers.
@@ -20,7 +37,10 @@ In the left hand side of the personal website, we have the button: Contact, educ
 
 In order to edit it, please go to the code line 19, where we could find the Navigation bar.<br>
 
-In order to add the new button, we just need to add an extra code.
+<img width="1066" alt="image" src="https://github.com/chu-zhang/chu-zhang.github.io/assets/82868869/327d8746-f4a3-474a-912e-960e4cd08c90">
+
+
+In order to add the new button, we just need to add an extra code between line 30 and 35.
 
 ```
 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#page-top"> Contact </a></li>
