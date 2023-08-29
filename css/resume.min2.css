@@ -13,7 +13,7 @@
 	h2{font-size:3.5rem}
 	h3{font-size:2rem}
 	p.lead{font-size:1.15rem;font-weight:400;color:rgb(124, 188, 214)}
-	li{font-size:1.15rem;font-weight:400;color:rgb(124, 188, 214);text-transform:initial;font-weight:700;font-family:'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';font-size:1.5rem}
+	li{font-size:1.15rem;font-weight:400;color:rgb(124, 188, 214);text-transform:initial;font-weight:700;font-family:'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';font-size:1.5rem;color: skyblue;}
 	.subheading{text-transform:initial;font-weight:700;font-family:'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';font-size:1.5rem;color: skyblue;}
 	.social-icons a{display:inline-block;height:3.5rem;width:3.5rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.5rem;margin-right:1rem}
 	.social-icons a:last-child{margin-right:0}
@@ -40,4 +40,7 @@
 	.bg-primary{background-color:#0088cc!important}
 	.text-primary{color:#08c!important}
 	a{color:#bd5d38}
+	.blue-link{
+		color:skyblue;
+	}
 	a:active,a:focus,a:hover{color:#824027}
